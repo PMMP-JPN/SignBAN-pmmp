@@ -1,0 +1,8 @@
+name: SignBAN
+main: SignBAN\SignBAN
+version: 1.0
+api: [1.11.0]
+load: POSTWORLD
+author: haniokasai
+description: If someone tap the sign ,that player is banned.
+website: haniokasai.com
